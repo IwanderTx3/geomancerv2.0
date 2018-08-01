@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "DigitalCrafts",
+    "password": null,
+    "database": "geomancer",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port":5433
+  
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "geomancer",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port":5433
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "geomancer",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port":5433
+  }
+}
